@@ -1,0 +1,24 @@
+# Built application files
+*.class
+
+# Logs
+*.log
+
+# Maven
+/target/
+
+# Gradle
+/.gradle/
+/build/
+
+# IDE files
+/.idea/
+*.iml
+
+# Output of the 'java' command
+*.jar
+*.war
+
+# Other files
+.DS_Store
+Thumbs.db
